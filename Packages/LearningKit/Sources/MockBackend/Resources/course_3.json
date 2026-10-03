@@ -1,0 +1,148 @@
+{
+  "id": 3,
+  "title": "Full Stack Development",
+  "instructor": "David Brown",
+  "progress": 25,
+  "lessons": [
+    {
+      "id": 301,
+      "title": "Web Fundamentals",
+      "completed": true
+    },
+    {
+      "id": 302,
+      "title": "HTML",
+      "completed": true
+    },
+    {
+      "id": 303,
+      "title": "CSS",
+      "completed": true
+    },
+    {
+      "id": 304,
+      "title": "JavaScript Basics",
+      "completed": true
+    },
+    {
+      "id": 305,
+      "title": "DOM Manipulation",
+      "completed": true
+    },
+    {
+      "id": 306,
+      "title": "Async JavaScript",
+      "completed": true
+    },
+    {
+      "id": 307,
+      "title": "TypeScript",
+      "completed": true
+    },
+    {
+      "id": 308,
+      "title": "React Basics",
+      "completed": false
+    },
+    {
+      "id": 309,
+      "title": "State Management",
+      "completed": false
+    },
+    {
+      "id": 310,
+      "title": "Routing",
+      "completed": false
+    },
+    {
+      "id": 311,
+      "title": "Node.js",
+      "completed": false
+    },
+    {
+      "id": 312,
+      "title": "Express",
+      "completed": false
+    },
+    {
+      "id": 313,
+      "title": "REST APIs",
+      "completed": false
+    },
+    {
+      "id": 314,
+      "title": "Databases",
+      "completed": false
+    },
+    {
+      "id": 315,
+      "title": "SQL",
+      "completed": false
+    },
+    {
+      "id": 316,
+      "title": "ORMs",
+      "completed": false
+    },
+    {
+      "id": 317,
+      "title": "Authentication",
+      "completed": false
+    },
+    {
+      "id": 318,
+      "title": "Testing",
+      "completed": false
+    },
+    {
+      "id": 319,
+      "title": "Docker",
+      "completed": false
+    },
+    {
+      "id": 320,
+      "title": "CI/CD",
+      "completed": false
+    },
+    {
+      "id": 321,
+      "title": "Cloud Deployment",
+      "completed": false
+    },
+    {
+      "id": 322,
+      "title": "Performance",
+      "completed": false
+    },
+    {
+      "id": 323,
+      "title": "Security",
+      "completed": false
+    },
+    {
+      "id": 324,
+      "title": "WebSockets",
+      "completed": false
+    },
+    {
+      "id": 325,
+      "title": "GraphQL",
+      "completed": false
+    },
+    {
+      "id": 326,
+      "title": "Monitoring",
+      "completed": false
+    },
+    {
+      "id": 327,
+      "title": "Scaling",
+      "completed": false
+    },
+    {
+      "id": 328,
+      "title": "Capstone",
+      "completed": false
+    }
+  ]
+}
